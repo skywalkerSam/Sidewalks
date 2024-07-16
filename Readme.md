@@ -19,15 +19,15 @@ Side-quests o' my life...
 
 - Space Exploration
 
-  <img src='./Resources/Images/theEarth.jpg' alt='The Earth' width=900>
+  <img src='./Resources/Images/theEarth.jpg' alt='The Earth' width=600>
 
   - [NASA SP-287](./Resources/Docs/NASA-SP-287.pdf)
     - How we landed on the moon? (Apollo Era)
 
-    <img src='./Resources/Images/theMoon.jpg' alt='The Moon' width=900>
+    <img src='./Resources/Images/theMoon.jpg' alt='The Moon' width=600>
 
 The horizon awaits...
 
-<img src='./Resources/Images/theHorizon.jpg' alt='The horizon' width=900>
+<img src='./Resources/Images/theHorizon.jpg' alt='The horizon' width=600>
 
 ## Until Next Time .)
